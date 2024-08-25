@@ -14,14 +14,14 @@ const USER_CONFIG =
     "CALLBACK_USERS": [
         {
             "name": "自己",
-            "id": ""
+            "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM"
         }
     ],
     "USERS": [
         {
             "name": "汪业",
             "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM",
-            "useTemplateId": "h-5uAdDv-aT1hPjuBD76imudhSLAm_soc1SpT9JcfmA\t",
+            "useTemplateId": "h-5uAdDv-aT1hPjuBD76imudhSLAm_soc1SpT9JcfmA",
             "province": "浙江省",
             "city": "杭州市",
             "horoscopeDate": "08-25",
