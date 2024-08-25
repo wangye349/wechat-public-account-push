@@ -35,22 +35,16 @@ const USER_CONFIG =
                     "year": "2024"
                 },
                 {
-                    "type": "生日",
-                    "name": "结婚纪念日",
-                    "date": "08-19",
+                    "type": "节日",
+                    "name": "去阳朔",
+                    "date": "09-14",
                     "year": "2024"
                 },
                 {
-                    "type": "*生日",
-                    "name": "认识的时候",
-                    "date": "08-12",
-                    "year": "2024"
-                },
-                {
-                    "type": "*生日",
-                    "name": "ss",
-                    "date": "08-05",
-                    "year": "2024"
+                    "type": "节日",
+                    "name": "退休",
+                    "date": "07-02",
+                    "year": "2030"
                 }
             ],
              customizedDateList: [
