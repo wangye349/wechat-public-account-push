@@ -21,7 +21,7 @@ const USER_CONFIG =
         {
             "name": "汪业",
             "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM",
-            "useTemplateId": "j1Ex7ObLdnuYmPxHI2AMaS_XpjY1Ty-qRV3raaCAEkU",
+            "useTemplateId": "_Uj-sQpzpajfKOeHncJIbbSPZkLByTM78EE6FXwg7H4",
             "province": "广东省",
             "city": "深圳市",
             "horoscopeDate": "08-25",
