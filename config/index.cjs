@@ -55,7 +55,7 @@ const USER_CONFIG =
             ],
              customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2024-07-02' }
+        { keyword: 'love_day', date: '2023-07-02' }
                  // ,
         // 结婚纪念日
         // { keyword: 'marry_day', date: '2022-09-09' },
