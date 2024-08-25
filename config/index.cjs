@@ -1,3 +1,11 @@
+/* eslint-disable */
+
+/**
+ * 此项目配置为方便新人使用，已缩减至最简配置。
+ * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
+ * 自行添加属性，以支持更多个性化功能
+ */
+const USER_CONFIG = 
 {
     "APP_ID": "wxd2ce9c3637a1b44a",
     "APP_SECRET": "c0b12f369e122bd97ee21659c5389532",
@@ -61,3 +69,6 @@
         "birthdayMessage": true
     }
 }
+
+
+module.exports = USER_CONFIG
