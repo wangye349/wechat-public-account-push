@@ -13,7 +13,7 @@ const USER_CONFIG =
     "CALLBACK_TEMPLATE_ID": "",
     "CALLBACK_USERS": [
         {
-            "name": "自己",
+            "name": "汪业",
             "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM"
         }
     ],
@@ -21,7 +21,7 @@ const USER_CONFIG =
         {
             "name": "汪业",
             "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM",
-            "useTemplateId": "CtAUNdz9Dv377d4RmXcAwfQ-IzNX2Gd3AlFQ72nlSlY",
+            "useTemplateId": "HQWDy-3_kTsjmGYZt3tPiJV7EdsxCJj-9fp3S6ZUaNI",
             "province": "广东省",
             "city": "深圳市",
             "horoscopeDate": "08-25",
