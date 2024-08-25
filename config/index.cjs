@@ -21,9 +21,9 @@ const USER_CONFIG =
         {
             "name": "汪业",
             "id": "oilFW6VDSF4gtpiR_gvFY0vGQYzM",
-            "useTemplateId": "h-5uAdDv-aT1hPjuBD76imudhSLAm_soc1SpT9JcfmA",
-            "province": "浙江省",
-            "city": "杭州市",
+            "useTemplateId": "aJc-JNvC2pgpc6W5AqzN--2dDfkBMWv-cXmTEwTiQFE",
+            "province": "广东省",
+            "city": "深圳市",
             "horoscopeDate": "08-25",
             "horoscopeDateType": "今日",
             "openUrl": "https://shuangxunian.github.io/",
